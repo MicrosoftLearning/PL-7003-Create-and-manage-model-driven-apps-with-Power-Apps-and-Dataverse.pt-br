@@ -12,8 +12,8 @@ Neste laboratório, você configurará formulários e exibições para um aplica
 
 A Contoso Real Estate deseja acompanhar dois elementos-chave:
 
-- Listagens de propriedades imobiliárias
-- Quem tem visitações de propriedades imobiliárias agendadas
+- Listagens de propriedades imobiliárias
+- Quem está agendado para mostrar os imóveis
 
 ## O que você aprenderá
 
@@ -34,7 +34,7 @@ A Contoso Real Estate deseja acompanhar dois elementos-chave:
   
 ## Pré-requisitos
 
-- Deve ter concluído o **Laboratório 2: Modelo de dados**
+- É necessário ter concluído **Laboratório 2: Modelo de dados**
 
 ## Etapas detalhadas
 
@@ -46,7 +46,7 @@ Neste exercício, você modificará o formulário principal da tabela Propriedad
 
 1. Navegue até o portal do Power Apps Maker `https://make.powerapps.com`
 
-1. Certifique-se de que você esteja no ambiente **Dev One**.
+1. Verifique se você está no ambiente **Dev One**.
 
 1. Selecione **Soluções**.
 
@@ -181,6 +181,8 @@ Neste exercício, você modificará o formulário principal da tabela Propriedad
 
 1. **Feche** o designer de formulários.
 
+1. Selecione **Concluído**.
+
 
 ## Exercício 2 – Formulário principal de visitação
 
@@ -190,7 +192,7 @@ Neste exercício, você modificará o formulário principal da tabela Visitaçã
 
 1. Navegue até o portal do Power Apps Maker `https://make.powerapps.com`
 
-1. Certifique-se de que você esteja no ambiente **Dev One**.
+1. Verifique se você está no ambiente **Dev One**.
 
 1. Selecione **Soluções**.
 
@@ -224,6 +226,8 @@ Neste exercício, você modificará o formulário principal da tabela Visitaçã
 
 1. **Feche** o designer de formulários.
 
+1. Selecione **Concluído**.
+
 
 ## Exercício 3 – Vários formulários
 
@@ -233,7 +237,7 @@ Neste exercício, você criará um novo formulário e restringirá o acesso com 
 
 1. Navegue até o portal do Power Apps Maker `https://make.powerapps.com`
 
-1. Certifique-se de que você esteja no ambiente **Dev One**.
+1. Verifique se você está no ambiente **Dev One**.
 
 1. Selecione **Soluções**.
 
@@ -251,7 +255,9 @@ Neste exercício, você criará um novo formulário e restringirá o acesso com 
 
 1. Selecione a tabela **Visitação** 4 vezes para alterar o nível de acesso em todos os privilégios para a **Organização**.
 
-1. Selecione **Salvar e Fechar**. De volta à Solução, selecione **Concluído** para recuperar as alterações.
+1. Selecione **Salvar e Fechar**.
+
+1. Selecione **Concluído**.
 
 
 ### Tarefa 3.2 – Copiar formulário
@@ -280,7 +286,9 @@ Neste exercício, você criará um novo formulário e restringirá o acesso com 
 
 1. Selecione **Salvar e Publicar**.
 
-1. **Feche** o designer de formulários e selecione **Concluído**.
+1. **Feche** o designer de formulários.
+
+1. Selecione **Concluído**.
 
 
 ## Exercício 4 – Exibições da Propriedade Imobiliária
@@ -291,7 +299,7 @@ Neste exercício, você modificará as exibições da tabela Propriedade Imobili
 
 1. Navegue até o portal do Power Apps Maker `https://make.powerapps.com`
 
-1. Certifique-se de que você esteja no ambiente **Dev One**.
+1. Verifique se você está no ambiente **Dev One**.
 
 1. Selecione **Soluções**.
 
@@ -323,16 +331,18 @@ Neste exercício, você modificará as exibições da tabela Propriedade Imobili
 
 1. Selecione **Salvar e Publicar**.
 
-1. **Feche** o designer de exibição e selecione **Concluído**.
+1. **Fechar** o designer da exibição.
+
+1. Selecione **Concluído**.
 
 
 ### Tarefa 4.2 – Modo de exibição de Busca rápida da Propriedade imobiliária
 
-1. Selecione o modo de exibição **Busca Rápida de Propriedades de Imóveis**, selecione o menu **Comandos** (...) e selecione **Editar** > **Editar em uma nova guia**.
+1. Selecione a exibição **Localizar Rapidamente Propriedades Imobiliárias Ativas**, selecione o menu **Comandos** (...) e selecione **Editar** > **Editar em uma nova guia**.
 
 1. Selecione o acento circunflexo ao lado da coluna **Criado em** e selecione **Remover**.
 
-1. No painel **Busca Rápida de Propriedades de Imóveis** à direita, selecione **Editar colunas da tabela de localização** em **Localizar por**.
+1. No painel **Localizar Rapidamente Propriedades Imobiliárias Ativas** à direita, selecione **Editar colunas da tabela de localização** em **Localizar por**.
 
 1. Escolha as colunas a seguir e selecione **Aplicar**.
 
@@ -342,7 +352,9 @@ Neste exercício, você modificará as exibições da tabela Propriedade Imobili
 
 1. Selecione **Salvar e Publicar**.
 
-1. **Feche** o designer de exibição e selecione **Concluído**.
+1. **Fechar** o designer da exibição.
+
+1. Selecione **Concluído**.
 
 
 ## Exercício 5 – modos de exibição de Visitação
@@ -353,7 +365,7 @@ Neste exercício, você modificará os modos de exibição da tabela Visitação
 
 1. Navegue até o portal do Power Apps Maker `https://make.powerapps.com`
 
-1. Certifique-se de que você esteja no ambiente **Dev One**.
+1. Verifique se você está no ambiente **Dev One**.
 
 1. Selecione **Soluções**.
 
@@ -404,6 +416,6 @@ Neste exercício, você modificará os modos de exibição da tabela Visitação
 
 1. Selecione **Salvar e Publicar**.
 
-1. **Feche** o designer de exibição e selecione **Concluído**.
+1. **Fechar** o designer da exibição.
 
-
+1. Selecione **Concluído**.
