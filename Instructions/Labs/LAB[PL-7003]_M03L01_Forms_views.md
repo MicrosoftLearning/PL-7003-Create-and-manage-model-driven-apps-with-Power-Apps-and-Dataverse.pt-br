@@ -157,7 +157,7 @@ Neste exercício, você modificará o formulário principal da tabela Propriedad
 
 1. Selecione o controle de **guia de 1 coluna** para adicioná-lo ao formulário.
 
-1. Insira `Showings` para **Rótulo** e `showingTab` para **Rótulo**.
+1. Insira `Showings` para **Rótulo** e `showingTab` para **Nome**.
 
 1. Selecione o **Modo de exibição de árvore** no lado esquerdo do designer de formulários, expanda a guia **Visitações** e selecione a seção **Nova seção**.
 
@@ -247,13 +247,13 @@ Neste exercício, você criará um novo formulário e restringirá o acesso com 
 
 1. Insira `Property admin` para o **Nome da função**.
 
-1. Selecione a guia **Entidades Personalizadas**.
+1. Role para baixo até a seção **Tabelas personalizadas**.
 
-1. Selecione a tabela **Propriedade imobiliária** 4 vezes para alterar o nível de acesso em todos os privilégios para **Organização**.
+1. Selecione a tabela **Propriedade imobiliária**. Altere o nível de acesso em todos os privilégios para a **Organização**.
 
     ![Privilégios de Propriedade Imobiliária na função de segurança.](../media/security-role.png)
 
-1. Selecione a tabela **Visitação** 4 vezes para alterar o nível de acesso em todos os privilégios para a **Organização**.
+1. Selecione a tabela **Showing**. Altere o nível de acesso em todos os privilégios para a **Organização**.
 
 1. Selecione **Salvar e Fechar**.
 
