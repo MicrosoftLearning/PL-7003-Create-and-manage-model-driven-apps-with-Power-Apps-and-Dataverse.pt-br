@@ -34,7 +34,7 @@ Neste exercício, você exportará a solução do ambiente de desenvolvimento.
 
 1. Navegue até o portal do Power Apps Maker `https://make.powerapps.com`
 
-1. Certifique-se de que você esteja no ambiente **Dev One**.
+1. Verifique se você está no ambiente **Dev One**.
 
 1. Selecione **Soluções**.
 
@@ -66,6 +66,8 @@ Neste exercício, você exportará a solução do ambiente de desenvolvimento.
 
 1. Selecione **Avançar**.
 
+1. Selecione **Avançar** novamente.
+
 1. O número de versão deve ter sido incrementado para **1.0.0.1**.
 
     ![Exporte o painel da solução.](../media/export-solution.png)
@@ -82,6 +84,8 @@ Neste exercício, você exportará a solução do ambiente de desenvolvimento.
 1. Selecione **Exportar**.
 
 1. Selecione **Avançar**.
+
+1. Selecione **Avançar** novamente.
 
 1. O número de versão deveria ter sido incrementado para **1.0.0.2**.
 
