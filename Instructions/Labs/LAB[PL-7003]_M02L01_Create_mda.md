@@ -65,8 +65,6 @@ Neste exercício, você criará um aplicativo controlado por modelos.
 
 1. Selecione **Tabela do Dataverse**.
 
-1. Selecione **Avançar**.
-
 1. Insira `cre` em **Pesquisar**.
 
     ![Captura de tela da caixa de diálogo Adicionar página ao aplicativo controlado por modelo.](../media/mda-add-tables.png)

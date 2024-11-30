@@ -12,8 +12,8 @@ Nesse laboratório, você criará tabelas, colunas e relações do Dataverse.
 
 A Contoso Real Estate deseja acompanhar dois elementos-chave:
 
-- Listagens de propriedades imobiliárias
-- Quem tem visitações de propriedades imobiliárias agendadas
+- Listagens de propriedades imobiliárias
+- Quem está agendado para mostrar os imóveis
 
 ## O que você aprenderá
 
@@ -41,21 +41,21 @@ Nesse exercício, você criará e adicionará tabelas à solução.
 
 1. Navegue até o portal do Power Apps Maker `https://make.powerapps.com`
 
-1. Certifique-se de que você esteja no ambiente **Dev One**.
+1. Verifique se você está no ambiente **Dev One**.
 
 1. Selecione **Soluções**.
 
 1. Abra a solução **Listagens de propriedades**.
 
-1. Selecione **+ Novo** e, em seguida, selecione **Tabela** e selecione **Tabela** novamente.
+1. Selecione **+ Novo** e, em seguida, selecione **Tabela** e selecione **Definir propriedades avançadas**.
 
     ![Captura de tela do novo painel de tabela](../media/new-table-pane.png)
 
-1. Insira `Real Estate Property` para **Nome de Exibição**. O nome plural será preenchido automaticamente.
+1. Para **Nome de exibição**, insira `Real Estate Property`. O nome plural será preenchido automaticamente.
 
 1. Selecione a guia **Coluna primária**.
 
-1. Insira `Property Name` para **Nome de Exibição**.
+1. Para **Nome de exibição**, insira `Property Name`.
 
 1. Expanda **Opções avançadas**, examine as opções disponíveis, mas não altere nada aqui.
 
@@ -78,9 +78,9 @@ Nesse exercício, você criará e adicionará tabelas à solução.
 
 1. No painel **Objetos**, selecione **Tudo**.
 
-1. Selecione **+ Novo** e, em seguida, selecione **Tabela** e selecione **Tabela** novamente.
+1. Selecione **+ Novo** e, em seguida, selecione **Tabela** e selecione **Definir propriedades avançadas**.
 
-1. Insira `Showing` para **Nome de Exibição**. O nome plural será preenchido automaticamente.
+1. Para **Nome de exibição**, insira `Showing`. O nome plural será preenchido automaticamente.
 
 1. Expanda **Opções avançadas**.
 
@@ -93,9 +93,9 @@ Nesse exercício, você criará e adicionará tabelas à solução.
 
 1. No painel **Objetos**, selecione **Tudo**.
 
-1. Selecione **+ Novo** e, em seguida, selecione **Tabela** e selecione **Tabela** novamente.
+1. Selecione **+ Novo** e, em seguida, selecione **Tabela** e selecione **Definir propriedades avançadas** novamente.
 
-1. Insira `Open House` para **Nome de Exibição**. O nome plural será preenchido automaticamente.
+1. Para **Nome de exibição**, insira `Open House`. O nome plural será preenchido automaticamente.
 
 1. Expanda **Opções avançadas**.
 
@@ -125,7 +125,7 @@ Nesse exercício, você criará colunas para as tabelas da solução.
 
 1. Navegue até o portal do Power Apps Maker `https://make.powerapps.com`
 
-1. Certifique-se de que você esteja no ambiente **Dev One**.
+1. Verifique se você está no ambiente **Dev One**.
 
 1. Selecione **Soluções**.
 
@@ -242,6 +242,8 @@ Nesse exercício, você criará colunas para as tabelas da solução.
 
 1. Selecione **Salvar**.
 
+1. Selecione **+ Nova coluna**.
+
 1. Para **Nome de exibição**, insira `Level of Interest`.
 
 1. Selecione **Opção** na lista suspensa **Tipo de dados** e selecione **Opção** novamente.
@@ -300,7 +302,7 @@ Neste exercício, você criará relações entre as tabelas para a solução.
 
 1. Navegue até o portal do Power Apps Maker `https://make.powerapps.com`
 
-1. Certifique-se de que você esteja no ambiente **Dev One**.
+1. Verifique se você está no ambiente **Dev One**.
 
 1. Selecione **Soluções**.
 

@@ -51,7 +51,7 @@ Neste exercício, você configurará a navegação e tabelas de um aplicativo ba
 
 1. No painel de propriedades, insira `Clients` para **Título**.
 
-1. Selecione **Navegação**, selecione o menu **Comandos** (...) **...** e selecione **Novo grupo**.
+1. Selecione **Navegação**, selecione o menu **Comandos** (...) e selecione **Novo grupo**.
 
 1. No painel de propriedades, insira `Properties` para **Título**.
 
