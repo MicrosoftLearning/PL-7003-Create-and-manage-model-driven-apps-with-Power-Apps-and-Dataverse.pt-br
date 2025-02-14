@@ -171,7 +171,7 @@ Neste exercício, você modificará o formulário principal da tabela Propriedad
 
 1. Selecione **Mostrar os registros relacionados**.
 
-1. Selecione **Visitações** para **Tabela** e **Visitações ativas** para **Modo de exibição padrão** e selecione **Concluído**.
+1. Selecione **Visitações (Propriedade imobiliária)** em **Tabela** e **Visitações ativas** em **Modo de exibição padrão** e selecione **Concluído**.
 
 1. Insira `Showings` para **Rótulo** e `showingsSG` para **Nome**.
 
