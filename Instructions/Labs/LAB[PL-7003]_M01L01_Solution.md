@@ -103,7 +103,7 @@ Neste exercício, você adicionará uma tabela existente à solução.
 
 1. Selecione **Avançar**.
 
-1. Na tabela **Conta**, selecione o link **Selecionar objetos**.
+1. Na tabela **Conta**, clique no link **Editar objetos**.
 
 1. Na guia **Colunas**, selecione a coluna **Número da conta**.
 
