@@ -247,6 +247,8 @@ Neste exercício, você criará um novo formulário e restringirá o acesso com 
 
 1. Insira `Property admin` para o **Nome da função**.
 
+1. Selecione a **Unidade de negócios** e salve.
+
 1. Role para baixo até a seção **Tabelas personalizadas**.
 
 1. Selecione a tabela **Propriedade imobiliária**. Altere o nível de acesso em todos os privilégios para a **Organização**.
