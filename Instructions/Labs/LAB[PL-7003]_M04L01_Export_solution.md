@@ -46,7 +46,6 @@ Neste exercício, você exportará a solução do ambiente de desenvolvimento.
 
 1. Selecione **Publicar Todas as Personalizações**.
 
-
 ### Tarefa 1.2 – Verificador de solução
 
 1. Na solução, selecione a guia **Visão geral**.
@@ -58,7 +57,6 @@ Neste exercício, você exportará a solução do ambiente de desenvolvimento.
     ![Página de resultados do verificador de solução.](../media/solution-checker.png)
 
 1. Você não deve ver avisos ou erros.
-
 
 ### Tarefa 1.3 – Exportar solução gerenciada
 
@@ -78,7 +76,6 @@ Neste exercício, você exportará a solução do ambiente de desenvolvimento.
 
 1. A exportação será preparada em segundo plano. Quando a solução estiver pronta, selecione o botão **Download**.
 
-
 ### Tarefa 1.4 – Exportar solução não gerenciada
 
 1. Selecione **Exportar**.
@@ -96,4 +93,3 @@ Neste exercício, você exportará a solução do ambiente de desenvolvimento.
 1. Selecione **Exportar**.
 
 1. A exportação será preparada em segundo plano. Quando a solução estiver pronta, selecione o botão **Download**.
-

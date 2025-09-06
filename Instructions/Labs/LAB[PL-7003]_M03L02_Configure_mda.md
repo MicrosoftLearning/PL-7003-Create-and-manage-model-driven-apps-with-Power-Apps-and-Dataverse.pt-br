@@ -63,7 +63,6 @@ Neste exercício, você configurará a navegação e tabelas de um aplicativo ba
 
     ![Captura de tela do designer de aplicativos baseados em modelo com navegação.](../media/mda-navigation.png)
 
-
 ### Tarefa 1.2 – Restringir exibições
 
 1. No **Painel de navegação**, selecione **Modo de exibição de visitações**.
@@ -74,9 +73,6 @@ Neste exercício, você configurará a navegação e tabelas de um aplicativo ba
 
     ![Captura de tela da remoção de uma exibição no designer de aplicativo baseado em modelo.](../media/mda-remove-view.png)
 
-1. Selecione **Salvar**.
-
-1. Selecione **Publicar**.
+1. Selecione **Salvar e Publicar**.
 
 1. **Feche** o designer de aplicativos e selecione **Concluído**.
-
