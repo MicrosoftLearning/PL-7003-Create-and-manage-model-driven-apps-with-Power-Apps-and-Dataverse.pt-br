@@ -47,7 +47,7 @@ Nesse exercício, você criará e adicionará tabelas à solução.
 
 1. Abra a solução **Listagens de propriedades**.
 
-1. Selecione **+ Novo** e, em seguida, selecione **Tabela** e selecione **Tabela (propriedades avançadas)**.
+1. Selecione **+ Novo**, depois selecione **Tabela** e, então, selecione **Tabela (propriedades avançadas)**.
 
     ![Captura de tela do novo painel de tabela](../media/new-table-pane.png)
 
@@ -73,12 +73,17 @@ Nesse exercício, você criará e adicionará tabelas à solução.
 
 1. Selecione **Salvar**.
 
+1. Selecione **Propriedades**.
+
+    ![Captura de tela da tabela Propriedade Imobiliária](../media/real-estate-property-table.png)
+
+1. Verifique **Habilitar anexos** e selecione **Salvar**.
 
 ### Tarefa 1.2 – Criar tabela de Visitação
 
 1. No painel **Objetos**, selecione **Tudo**.
 
-1. Selecione **+ Novo** e, em seguida, selecione **Tabela** e selecione **Tabela (propriedades avançadas)**.
+1. Selecione **+ Novo**, depois selecione **Tabela** e, então, selecione **Tabela (propriedades avançadas)**.
 
 1. Para **Nome de exibição**, insira `Showing`. O nome plural será preenchido automaticamente.
 
@@ -87,7 +92,6 @@ Nesse exercício, você criará e adicionará tabelas à solução.
 1. Verificar **Aparecer nos resultados da pesquisa**.
 
 1. Selecione **Salvar**.
-
 
 ### Tarefa 1.3 – Criar tabela de Evento de visitação aberta
 
@@ -103,7 +107,6 @@ Nesse exercício, você criará e adicionará tabelas à solução.
 
 1. Selecione **Salvar**.
 
-
 ### Tarefa 1.4 – Adicionar tabela de contatos
 
 1. No painel **Objetos**, selecione **Tudo**.
@@ -115,7 +118,6 @@ Nesse exercício, você criará e adicionará tabelas à solução.
 1. Selecione **Avançar**.
 
 1. Selecione **Adicionar**.
-
 
 ## Exercício 2 – Criar colunas
 
@@ -132,12 +134,6 @@ Nesse exercício, você criará colunas para as tabelas da solução.
 1. Abra a solução **Listagens de propriedades**.
 
 1. Selecione a tabela **Propriedade imobiliária**.
-
-1. Selecione **Propriedades**.
-
-    ![Captura de tela da tabela Propriedade Imobiliária](../media/real-estate-property-table.png)
-
-1. Verifique **Habilitar anexos** e selecione **Salvar**.
 
 1. Em **Esquema**, selecione **Colunas**.
 
@@ -213,7 +209,6 @@ Nesse exercício, você criará colunas para as tabelas da solução.
 
 1. Selecione **Salvar**.
 
-
 ### Tarefa 2.2 – Criar colunas de Visitação
 
 1. No painel **Objetos**, selecione **Tudo**.
@@ -272,7 +267,6 @@ Nesse exercício, você criará colunas para as tabelas da solução.
 
 1. Selecione **Salvar**.
 
-
 ### Tarefa 2.3 – Criar colunas de Evento de visitação aberta
 
 1. No painel **Objetos**, selecione **Tudo**.
@@ -292,7 +286,6 @@ Nesse exercício, você criará colunas para as tabelas da solução.
 1. Na lista suspensa **Obrigatório**, selecione **Empresa necessária**.
 
 1. Selecione **Salvar**.
-
 
 ## Exercício 3 – Criar relações
 
@@ -322,7 +315,6 @@ Neste exercício, você criará relações entre as tabelas para a solução.
 
 1. Selecione **Concluído**.
 
-
 ### Tarefa 3.2 – Relação entre Propriedade imobiliária e Visitação
 
 1. Selecione **+ Novo relacionamento** e selecione **Um para muitos**.
@@ -332,7 +324,6 @@ Neste exercício, você criará relações entre as tabelas para a solução.
 1. Na lista suspensa **Requisito da coluna de pesquisa**, selecione**Empresa necessária**.
 
 1. Selecione **Concluído**.
-
 
 ### Tarefa 3.3 – Relação entre Propriedade imobiliária e Evento de visitação aberta
 
@@ -347,7 +338,6 @@ Neste exercício, você criará relações entre as tabelas para a solução.
 1. Insira `realestateproperty_openhouse` em **Nome da relação**.
 
 1. Selecione **Concluído**.
-
 
 ### Tarefa 3.4 – Relação entre Visitação e Contato
 
@@ -364,4 +354,3 @@ Neste exercício, você criará relações entre as tabelas para a solução.
 1. Insira `Shown to` para o **Nome de exibição da coluna Pesquisa**.
 
 1. Selecione **Concluído**.
-

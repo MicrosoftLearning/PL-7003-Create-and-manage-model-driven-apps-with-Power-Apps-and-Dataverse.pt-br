@@ -29,7 +29,6 @@ A Contoso Real Estate deseja acompanhar dois elementos-chave:
 
 - É necessário ter concluído **Laboratório 2: Modelo de dados**
 
-
 ## Etapas detalhadas
 
 ## Exercício 1: criar um aplicativo controlado por modelos
@@ -56,16 +55,13 @@ Neste exercício, você criará um aplicativo controlado por modelos.
 
     ![Captura de tela do designer de aplicativo baseado em modelo.](../media/mda-designer.png)
 
-
 ### Tarefa 1.2: adicionar tabelas
 
-1. Selecione **+ Adicionar página**.
+1. Selecione a lista suspensa ao lado de **+ Adicionar página** e selecione a **tabela Dataverse**.
 
     ![Captura de tela da caixa de diálogo Adicionar página ao aplicativo controlado por modelo](../media/mda-new-page.png)
 
-1. Selecione **Tabela do Dataverse**.
-
-1. Insira `cre` em **Pesquisar**.
+1. Insira `cre_` em **Pesquisar**.
 
     ![Captura de tela da caixa de diálogo Adicionar página ao aplicativo controlado por modelo.](../media/mda-add-tables.png)
 
@@ -79,11 +75,9 @@ Neste exercício, você criará um aplicativo controlado por modelos.
 
     ![Captura de tela do designer de aplicativos controlado por modelos com tabelas.](../media/mda-designer-with-tables.png)
 
-1. Selecione **Salvar**.
+1. Selecione **Salvar e Publicar**.
 
-1. Selecione **Publicar**.
-
-    ![Captura de tela do ícone de publicação.](../media/mda-publish-btn.png)
+    ![Captura de tela do ícone salvar e publicar.](../media/mda-save-publish-btn.png)
 
 ### Tarefa 1.3: testar
 
@@ -119,3 +113,6 @@ Neste exercício, você criará um aplicativo controlado por modelos.
 
 1. Selecione **Salvar e Fechar**.
 
+1. Feche o aplicativo.
+
+1. Selecione **<- Voltar** no designer do aplicativo **Gerenciamento de Propriedades**.

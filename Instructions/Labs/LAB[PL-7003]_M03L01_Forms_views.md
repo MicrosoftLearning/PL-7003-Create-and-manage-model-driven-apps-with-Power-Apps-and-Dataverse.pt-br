@@ -78,9 +78,11 @@ Neste exercício, você modificará o formulário principal da tabela Propriedad
 
     ![Captura de tela do formulário principal com exibição de árvore e nomes.](../media/main-form-tab-layout.png)
 
-1. Selecione a primeira seção.
-
 1. Selecione **Colunas da tabela** da navegação à esquerda no designer de formulários.
+
+1. Arraste a coluna **Motivo do status** para a área **Cabeçalho**.
+
+1. Selecione a primeira seção.
 
 1. Arraste a coluna **Cliente** abaixo do campo **Nome da propriedade**.
 
@@ -90,7 +92,7 @@ Neste exercício, você modificará o formulário principal da tabela Propriedad
 
 1. Selecione **Componentes** na navegação à esquerda no designer de formulários.
 
-1. Selecione o controle de **seção de 1 coluna** para adicioná-lo ao formulário.
+1. Selecione o controle de **seção de 1 coluna** para adicioná-lo ao formulário abaixo da seção Geral.
 
 1. Insira `Details` para **Rótulo** e `detailsSection` para **Nome**.
 
@@ -105,7 +107,6 @@ Neste exercício, você modificará o formulário principal da tabela Propriedad
 1. Selecione a coluna **Banheiros** para adicionar ao formulário abaixo de **Quartos**.
 
     ![Captura de tela do formulário principal com colunas de tabela.](../media/main-form-first-tab.png)
-
 
 ### Tarefa 1.2 – Adicionar controle de linha do tempo
 
@@ -131,11 +132,6 @@ Neste exercício, você modificará o formulário principal da tabela Propriedad
 
 1. No painel **Propriedades** no lado direito, selecione **Data de criação** no menu suspenso **Classificar as atividades por**.
 
-1. Selecione **Colunas da tabela** da navegação à esquerda no designer de formulários.
-
-1. Arraste a coluna **Motivo do status** para a área **Cabeçalho**.
-
-
 ### Tarefa 1.3 – Adicionar controle modo de exibição rápida
 
 1. Selecione o **Modo de exibição de árvore** no lado esquerdo do designer de formulários.
@@ -149,7 +145,6 @@ Neste exercício, você modificará o formulário principal da tabela Propriedad
 1. Selecione o controle **Exibição rápida** para adicioná-la à seção **Relacionado**.
 
 1. Selecione **Cliente** para **Pesquisa** e **cartão de visita da conta** para **Contato** e selecione **Concluído**.
-
 
 ### Tarefa 1.4 – Adicionar guia
 
@@ -182,7 +177,6 @@ Neste exercício, você modificará o formulário principal da tabela Propriedad
 1. **Feche** o designer de formulários.
 
 1. Selecione **Concluído**.
-
 
 ## Exercício 2 – Formulário principal de visitação
 
@@ -228,7 +222,6 @@ Neste exercício, você modificará o formulário principal da tabela Visitaçã
 
 1. Selecione **Concluído**.
 
-
 ## Exercício 3 – Vários formulários
 
 Neste exercício, você criará um novo formulário e restringirá o acesso com uma função de segurança.
@@ -247,20 +240,39 @@ Neste exercício, você criará um novo formulário e restringirá o acesso com 
 
 1. Insira `Property admin` para o **Nome da função**.
 
-1. Selecione a **Unidade de negócios** e salve.
+1. Selecione a **Unidade de Negócios Raiz** e selecione **Salvar**.
 
-1. Role para baixo até a seção **Tabelas personalizadas**.
+1. Digite `cre_` em **Pesquisar por nome de tabela** no canto superior direito da página.
 
-1. Selecione a tabela **Propriedade imobiliária**. Altere o nível de acesso em todos os privilégios para a **Organização**.
+1. Selecione **Mostrar todas as tabelas** na lista suspensa no lado esquerdo da página.
+
+1. Selecione a tabela **Propriedade imobiliária**.
+
+1. Selecione o menu **Comandos** (...) e selecione **Configurações de Permissão**.
+
+1. Selecione **Acesso Completo** para alterar o nível de acesso em todos os privilégios para **Organização**.
+
+1. Selecione **Salvar**.
 
     ![Privilégios de Propriedade Imobiliária na função de segurança.](../media/security-role.png)
 
-1. Selecione a tabela **Showing**. Altere o nível de acesso em todos os privilégios para a **Organização**.
+1. Selecione a tabela **Visitação**.
 
-1. Selecione **Salvar e Fechar**.
+1. Selecione o menu **Comandos** (...) e selecione **Configurações de Permissão**.
 
-1. Selecione **Concluído**.
+1. Selecione **Acesso Completo** para alterar o nível de acesso em todos os privilégios para **Organização**.
 
+1. Selecione **Salvar**.
+
+1. Selecione a tabela **Evento de visitação aberta**.
+
+1. Selecione o menu **Comandos** (...) e selecione **Configurações de Permissão**.
+
+1. Selecione **Acesso Completo** para alterar o nível de acesso em todos os privilégios para **Organização**.
+
+1. Selecione **Salvar**.
+
+1. Selecione **<-Voltar**.
 
 ### Tarefa 3.2 – Copiar formulário
 
@@ -291,7 +303,6 @@ Neste exercício, você criará um novo formulário e restringirá o acesso com 
 1. **Feche** o designer de formulários.
 
 1. Selecione **Concluído**.
-
 
 ## Exercício 4 – Exibições da Propriedade Imobiliária
 
@@ -337,7 +348,6 @@ Neste exercício, você modificará as exibições da tabela Propriedade Imobili
 
 1. Selecione **Concluído**.
 
-
 ### Tarefa 4.2 – Modo de exibição de Busca rápida da Propriedade imobiliária
 
 1. Selecione a exibição **Localizar Rapidamente Propriedades Imobiliárias Ativas**, selecione o menu **Comandos** (...) e selecione **Editar** > **Editar em uma nova guia**.
@@ -357,7 +367,6 @@ Neste exercício, você modificará as exibições da tabela Propriedade Imobili
 1. **Fechar** o designer da exibição.
 
 1. Selecione **Concluído**.
-
 
 ## Exercício 5 – modos de exibição de Visitação
 
@@ -400,7 +409,6 @@ Neste exercício, você modificará os modos de exibição da tabela Visitação
 1. No painel Propriedades, selecione **Classificar por** e selecione **Data da visitação**.
 
 1. No menu suspenso **Salvar e publicar**, selecione **Somente salvar**.
-
 
 ### Tarefa 5.2 – Novo modo de exibição de Visitação
 
