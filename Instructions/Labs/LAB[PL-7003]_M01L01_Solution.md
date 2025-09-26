@@ -43,7 +43,7 @@ Neste exercício, você acessará o portal do criador do Power Apps e o ambiente
 
     ![Selecione o ambiente de desenvolvimento no portal do criador do Power Apps.](../media/select-dev-one-environment.png)
 
-1. Selecione **Aplicativos** no painel de navegação esquerdo e selecione **Tudo**. Você deverá ver vários aplicativos, incluindo o aplicativo acelerador do Dataverse, o Hub de Integridade da Solução e o Gerenciamento do Power Pages, listados.
+1. Selecione **Aplicativos** no painel de navegação esquerdo e selecione **Tudo**. Você deve ver vários aplicativos, incluindo, Power Pages Management, Hub de Integridade da Solução e Configurações de Ambiente do Power Platform listados.
 
 1. Selecione **Tabelas** no painel de navegação esquerdo. Você deverá ver as tabelas padrão do *Common Data Model*, incluindo Conta e Contato.
 
